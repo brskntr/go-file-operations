@@ -1,4 +1,4 @@
-package copyfile
+package operations
 
 import (
 	"fmt"
